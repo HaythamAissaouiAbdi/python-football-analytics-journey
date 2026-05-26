@@ -24,17 +24,20 @@ The lesson should follow this rhythm:
 Complete Python day N
 ```
 
-## GitHub Setup Needed
+## GitHub Setup
 
 This local project is already a Git repository.
+It is connected to:
 
-To publish it:
+```text
+https://github.com/HaythamAissaouiAbdi/python-football-analytics-journey.git
+```
+
+If terminal push asks for authentication or times out, use GitHub Desktop:
 
 1. Open GitHub Desktop.
-2. Choose "Add an Existing Repository from your Hard Drive".
+2. Choose "Add an Existing Repository from your Hard Drive" if this folder is not already listed.
 3. Select `C:\Users\Abdelhamid Aissaoui\Documents\New project`.
-4. Click "Publish repository".
-5. Name it something like `python-zero-to-hero`.
-6. Keep it private or public, whichever you prefer.
+4. Click "Publish branch" or "Push origin".
 
-After that, daily work can be pushed after each lesson.
+After that, daily work can be pushed after each lesson through GitHub Desktop or terminal Git.
